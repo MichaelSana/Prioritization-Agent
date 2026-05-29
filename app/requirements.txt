@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+openai
+langchain
+langgraph
+redis
+celery
+httpx
+python-dotenv
+google-api-python-client
+google-auth-httplib2 
+google-auth-oauthlib
